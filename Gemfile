@@ -9,7 +9,7 @@ gem 'sqlite3'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
 #gem 'pg'
-gem 'activerecord-postgresql-adapter'
+#gem 'activerecord-postgresql-adapter'
 
 gem 'json'
 
