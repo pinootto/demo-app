@@ -8,8 +8,8 @@ gem 'rails', '3.2.3'
 gem 'sqlite3'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
-#gem 'pg'
-#gem 'activerecord-postgresql-adapter'
+gem 'pg'
+gem 'activerecord-postgresql-adapter'
 
 gem 'json'
 
